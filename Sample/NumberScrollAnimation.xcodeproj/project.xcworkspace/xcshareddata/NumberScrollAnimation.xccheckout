@@ -10,31 +10,31 @@
 	<string>NumberScrollAnimation</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>F905E420C330934DDAC552701538C674A1BE6D29</key>
-		<string>https://github.com/jonathantribouharet/JTNumberScrollAnimatedView.git</string>
+		<key>81D2060692B025FBDD19DC47C55D3E661510F3AE</key>
+		<string>https://github.com/varshylmobile/VMNumberScrollAnimatedView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>SwiftExample/NumberScrollAnimation.xcodeproj</string>
+	<string>Sample/NumberScrollAnimation.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F905E420C330934DDAC552701538C674A1BE6D29</key>
+		<key>81D2060692B025FBDD19DC47C55D3E661510F3AE</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/jonathantribouharet/JTNumberScrollAnimatedView.git</string>
+	<string>https://github.com/varshylmobile/VMNumberScrollAnimatedView.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F905E420C330934DDAC552701538C674A1BE6D29</string>
+	<string>81D2060692B025FBDD19DC47C55D3E661510F3AE</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F905E420C330934DDAC552701538C674A1BE6D29</string>
+			<string>81D2060692B025FBDD19DC47C55D3E661510F3AE</string>
 			<key>IDESourceControlWCCName</key>
-			<string>JTNumberScrollAnimatedView</string>
+			<string>VMNumberScrollAnimatedView</string>
 		</dict>
 	</array>
 </dict>

@@ -10,31 +10,34 @@ Objective-C implementation [by @jonathantribouharet](https://github.com/jonathan
 ----------
 
 
-Screenshot (Taken from Jonathan's github page)
+Screenshot 
 ==========
+
+(Taken from Jonathan's github page)
 
 ![Example](https://dl.dropboxusercontent.com/s/0oftp8vpkl9fx9l/VMNumberScrollAnimatedView.gif)
 
 Sample code
 -----------
-@IBOutlet var animatedView:VMNumberScrollAnimatedView? = VMNumberScrollAnimatedView?()
 
-override func viewDidLoad() {
-        super.viewDidLoad()
-        
-        self.animatedView?.textColor = UIColor.whiteColor()
-        
-        self.animatedView?.font = UIFont(name: "HelveticaNeue-Bold", size: 42)!
-        self.animatedView?.minLenght = 3
-        
-    }
+		@IBOutlet var animatedView:VMNumberScrollAnimatedView? = VMNumberScrollAnimatedView?()
 
-     @IBAction func start(){
+		override func viewDidLoad() {
+        	super.viewDidLoad()
+        
+	        self.animatedView?.textColor = UIColor.whiteColor()
+        
+    	    self.animatedView?.font = UIFont(name: "HelveticaNeue-Bold", size: 42)!
+        	self.animatedView?.minLenght = 3
+        
+    		}
+
+    	 @IBAction func start(){
     
-        self.animatedView?.setValue(NSNumber(int: rand()%5000))
-        self.animatedView?.startAnimation()
+        	self.animatedView?.setValue(NSNumber(int: rand()%5000))
+	        self.animatedView?.startAnimation()
     
-    }
+    		}
 
 
 ----------
